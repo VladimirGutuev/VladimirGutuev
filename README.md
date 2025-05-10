@@ -16,7 +16,21 @@ Data scientist
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/VladimirGutuev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <!-- GitHub -->
+  <a href="https://github.com/VladimirGutuev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Github-%23000000?style=for-the-badge&logo=github#gh-dark-mode-only" width="115" height="32" alt="GitHub (dark)" />
+  </a>
+  <!-- Telegram -->
+  <a href="https://t.me/Gutuevv" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="115" height="32" alt="Telegram" />
+    </picture>
+  </a>
+</p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -24,7 +38,5 @@ Data scientist
 <a href="http://www.github.com/VladimirGutuev"><img src="https://github-readme-stats.vercel.app/api?username=VladimirGutuev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="VladimirGutuev's GitHub stats" /></a>
 
 <a href="http://www.github.com/VladimirGutuev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirGutuev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/VladimirGutuev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=VladimirGutuev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/VladimirGutuev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGutuev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
