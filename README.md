@@ -81,12 +81,21 @@ class DataScientist:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VladimirGutuev&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGutuev&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&border_radius=10" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VladimirGutuev&show_icons=true&count_private=true&theme=algolia&hide_border=true&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VladimirGutuev&show_icons=true&count_private=true&theme=algolia&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGutuev&langs_count=8&layout=compact&theme=algolia&hide_border=true&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGutuev&langs_count=8&layout=compact&theme=algolia&hide_border=true&border_radius=10" alt="Top Languages" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirGutuev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=VladimirGutuev&theme=algolia&hide_border=true&border_radius=10" />
+    <img src="https://streak-stats.demolab.com/?user=VladimirGutuev&theme=algolia&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  </picture>
 </div>
 
 ---
@@ -102,12 +111,10 @@ class DataScientist:
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VladimirGutuev/VladimirGutuev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VladimirGutuev/VladimirGutuev/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/VladimirGutuev/VladimirGutuev/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/VladimirGutuev/VladimirGutuev/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
+
+> 🔄 *Snake animation is generated daily by GitHub Actions*
 
 ---
 
