@@ -1,42 +1,139 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vladimir Gutuev
-=======================================================================================================================================
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=200&section=header&text=Vladimir%20Gutuev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20|%20ML%20Engineer%20|%20Python%20Developer&descAlignY=55&descSize=18)
 
-Data scientist
---------------
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Building+ML+solutions+for+real+business+problems;Telegram+bots+%26+CRM+integrations;Turning+data+into+insights+%F0%9F%93%8A)](https://git.io/typing-svg)
 
-* 🌍  I'm based in Russia, Moscow
-* ✉️  You can contact me at [vgutuev@gmail.com](mailto:vgutuev@gmail.com)
-* 🧠  I'm learning ML models with Python, Pandas, NumPy, SKlearn
+  ![Profile Views](https://komarev.com/ghpvc/?username=VladimirGutuev&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
+  
+</div>
 
-### Skills
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
+## 👨‍💻 About Me
 
-### Socials
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Vladimir Gutuev"
+        self.role = "Data Scientist & ML Engineer"
+        self.location = "Moscow, Russia 🇷🇺"
+        self.current_work = "Yesandthattoo.com"
+        self.languages = ["Python", "SQL", "C++"]
+    
+    def get_experience(self):
+        return {
+            "🏨 Travel Tech": "ML solutions for travel aggregator",
+            "🤖 Telegram Bots": "CRM integrations for hotel systems",
+            "📊 Data Science": "End-to-end ML pipelines"
+        }
+    
+    def get_daily_routine(self):
+        return ["☕ Coffee", "📈 Data", "🧠 ML", "🚀 Deploy", "🔁 Repeat"]
+```
 
-<p align="left">
-  <!-- GitHub -->
-  <a href="https://github.com/VladimirGutuev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Github-%23000000?style=for-the-badge&logo=github#gh-dark-mode-only" width="115" height="32" alt="GitHub (dark)" />
-  </a>
-  <!-- Telegram -->
-  <a href="https://t.me/Gutuevv" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="115" height="32" alt="Telegram" />
-    </picture>
-  </a>
-</p>
+<br>
 
-### Badges
+| 🔭 Currently working at | [**Yesandthattoo.com**](https://yesandthattoo.com) |
+|:------------------------|:---------------------------------------------------|
+| 🏨 Previous experience  | ML solutions for travel aggregator & hotel CRM integrations |
+| 🤖 Building             | Telegram bots with smart integrations |
+| 🌱 Learning             | Deep Learning, MLOps, LLMs |
+| 📫 Reach me at          | **vgutuev@gmail.com** |
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/VladimirGutuev"><img src="https://github-readme-stats.vercel.app/api?username=VladimirGutuev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="VladimirGutuev's GitHub stats" /></a>
+## 🛠️ Tech Stack
 
-<a href="http://www.github.com/VladimirGutuev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirGutuev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
 
-<a href="https://github.com/VladimirGutuev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGutuev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🤖 ML & Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VladimirGutuev&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VladimirGutuev&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGutuev&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&border_radius=10" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirGutuev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VladimirGutuev&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&area=true&area_color=0891b2&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VladimirGutuev/VladimirGutuev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VladimirGutuev/VladimirGutuev/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/VladimirGutuev/VladimirGutuev/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VladimirGutuev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gutuevv)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vgutuev@gmail.com)
+[![Website](https://img.shields.io/badge/Website-0891b2?style=for-the-badge&logo=safari&logoColor=white)](https://yesandthattoo.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer)
+  
+</div>
